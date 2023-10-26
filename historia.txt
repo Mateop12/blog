@@ -3,4 +3,6 @@ hola primera linea.
 tengo 23 años naci en colombia
 viviendo en todo el mundo
 
+master 1
+
 mañana nos enfocaremos en su vida laboral
